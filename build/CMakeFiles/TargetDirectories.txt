@@ -1,0 +1,8 @@
+/home/divyaraj-pc/Desktop/gitrepo/SPP_Assn_2/big-board-2d-convolution-Divyaraj-coder-create/build/CMakeFiles/edit_cache.dir
+/home/divyaraj-pc/Desktop/gitrepo/SPP_Assn_2/big-board-2d-convolution-Divyaraj-coder-create/build/CMakeFiles/rebuild_cache.dir
+/home/divyaraj-pc/Desktop/gitrepo/SPP_Assn_2/big-board-2d-convolution-Divyaraj-coder-create/build/src/CMakeFiles/studentlib.dir
+/home/divyaraj-pc/Desktop/gitrepo/SPP_Assn_2/big-board-2d-convolution-Divyaraj-coder-create/build/src/CMakeFiles/edit_cache.dir
+/home/divyaraj-pc/Desktop/gitrepo/SPP_Assn_2/big-board-2d-convolution-Divyaraj-coder-create/build/src/CMakeFiles/rebuild_cache.dir
+/home/divyaraj-pc/Desktop/gitrepo/SPP_Assn_2/big-board-2d-convolution-Divyaraj-coder-create/build/tester/CMakeFiles/tester.dir
+/home/divyaraj-pc/Desktop/gitrepo/SPP_Assn_2/big-board-2d-convolution-Divyaraj-coder-create/build/tester/CMakeFiles/edit_cache.dir
+/home/divyaraj-pc/Desktop/gitrepo/SPP_Assn_2/big-board-2d-convolution-Divyaraj-coder-create/build/tester/CMakeFiles/rebuild_cache.dir

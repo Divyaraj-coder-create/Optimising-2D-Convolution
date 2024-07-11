@@ -1,0 +1,6 @@
+1. MMAP better for reading than fread
+
+2. CPPreference.com WRITE function 
+
+3. use open syscall
+
